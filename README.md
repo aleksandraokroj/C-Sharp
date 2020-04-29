@@ -1,2 +1,2 @@
 # C-Sharp
-Basic exercises helping to learn C#
+Basic exercises to learn C#
