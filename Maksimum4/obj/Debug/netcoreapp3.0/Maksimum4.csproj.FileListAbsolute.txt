@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\Maksimum4\obj\Debug\netcoreapp3.0\Maksimum4.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\Maksimum4\obj\Debug\netcoreapp3.0\Maksimum4.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\Maksimum4\obj\Debug\netcoreapp3.0\Maksimum4.AssemblyInfo.cs
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.exe
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.deps.json
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.runtimeconfig.json
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.dll
+C:\Users\deerx\source\repos\Maksimum4\bin\Debug\netcoreapp3.0\Maksimum4.pdb
+C:\Users\deerx\source\repos\Maksimum4\obj\Debug\netcoreapp3.0\Maksimum4.dll
+C:\Users\deerx\source\repos\Maksimum4\obj\Debug\netcoreapp3.0\Maksimum4.pdb
