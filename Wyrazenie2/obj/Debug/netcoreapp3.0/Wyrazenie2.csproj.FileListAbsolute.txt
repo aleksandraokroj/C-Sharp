@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\Wyrazenie2\obj\Debug\netcoreapp3.0\Wyrazenie2.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\Wyrazenie2\obj\Debug\netcoreapp3.0\Wyrazenie2.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\Wyrazenie2\obj\Debug\netcoreapp3.0\Wyrazenie2.AssemblyInfo.cs
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.exe
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.deps.json
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.runtimeconfig.json
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.dll
+C:\Users\deerx\source\repos\Wyrazenie2\bin\Debug\netcoreapp3.0\Wyrazenie2.pdb
+C:\Users\deerx\source\repos\Wyrazenie2\obj\Debug\netcoreapp3.0\Wyrazenie2.dll
+C:\Users\deerx\source\repos\Wyrazenie2\obj\Debug\netcoreapp3.0\Wyrazenie2.pdb
