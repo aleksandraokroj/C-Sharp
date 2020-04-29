@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\Delta\obj\Debug\netcoreapp3.0\Delta.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\Delta\obj\Debug\netcoreapp3.0\Delta.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\Delta\obj\Debug\netcoreapp3.0\Delta.AssemblyInfo.cs
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.exe
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.deps.json
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.runtimeconfig.json
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.dll
+C:\Users\deerx\source\repos\Delta\bin\Debug\netcoreapp3.0\Delta.pdb
+C:\Users\deerx\source\repos\Delta\obj\Debug\netcoreapp3.0\Delta.dll
+C:\Users\deerx\source\repos\Delta\obj\Debug\netcoreapp3.0\Delta.pdb
