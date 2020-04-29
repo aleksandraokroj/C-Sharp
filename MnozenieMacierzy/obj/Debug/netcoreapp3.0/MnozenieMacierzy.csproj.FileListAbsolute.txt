@@ -1,0 +1,3 @@
+C:\Users\deerx\source\repos\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\MnozenieMacierzy\obj\Debug\netcoreapp3.0\MnozenieMacierzy.AssemblyInfo.cs
