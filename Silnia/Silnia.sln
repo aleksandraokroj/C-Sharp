@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silnia", "Silnia.csproj", "{1FE7410A-FE6E-466A-B59A-EA4F782CB3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE7410A-FE6E-466A-B59A-EA4F782CB3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE7410A-FE6E-466A-B59A-EA4F782CB3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE7410A-FE6E-466A-B59A-EA4F782CB3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE7410A-FE6E-466A-B59A-EA4F782CB3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA25F04-36ED-4FB8-92B5-A0950BE5C637}
+	EndGlobalSection
+EndGlobal
