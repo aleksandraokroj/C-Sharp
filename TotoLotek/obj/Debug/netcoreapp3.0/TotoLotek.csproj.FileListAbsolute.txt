@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\TotoLotek\obj\Debug\netcoreapp3.0\TotoLotek.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\TotoLotek\obj\Debug\netcoreapp3.0\TotoLotek.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\TotoLotek\obj\Debug\netcoreapp3.0\TotoLotek.AssemblyInfo.cs
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.exe
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.deps.json
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.runtimeconfig.json
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.dll
+C:\Users\deerx\source\repos\TotoLotek\bin\Debug\netcoreapp3.0\TotoLotek.pdb
+C:\Users\deerx\source\repos\TotoLotek\obj\Debug\netcoreapp3.0\TotoLotek.dll
+C:\Users\deerx\source\repos\TotoLotek\obj\Debug\netcoreapp3.0\TotoLotek.pdb
