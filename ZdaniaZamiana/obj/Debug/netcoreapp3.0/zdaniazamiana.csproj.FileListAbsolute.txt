@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\zdaniazamiana\obj\Debug\netcoreapp3.0\zdaniazamiana.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\zdaniazamiana\obj\Debug\netcoreapp3.0\zdaniazamiana.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\zdaniazamiana\obj\Debug\netcoreapp3.0\zdaniazamiana.AssemblyInfo.cs
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.exe
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.deps.json
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.runtimeconfig.json
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.dll
+C:\Users\deerx\source\repos\zdaniazamiana\bin\Debug\netcoreapp3.0\zdaniazamiana.pdb
+C:\Users\deerx\source\repos\zdaniazamiana\obj\Debug\netcoreapp3.0\zdaniazamiana.dll
+C:\Users\deerx\source\repos\zdaniazamiana\obj\Debug\netcoreapp3.0\zdaniazamiana.pdb
