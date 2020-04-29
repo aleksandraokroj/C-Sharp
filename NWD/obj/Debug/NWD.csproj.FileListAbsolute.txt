@@ -1,0 +1,9 @@
+C:\Users\deerx\source\repos\NWD\bin\Debug\NWD.exe.config
+C:\Users\deerx\source\repos\NWD\bin\Debug\NWD.exe
+C:\Users\deerx\source\repos\NWD\bin\Debug\NWD.pdb
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.Form1.resources
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.Properties.Resources.resources
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.csproj.GenerateResource.cache
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.exe
+C:\Users\deerx\source\repos\NWD\obj\Debug\NWD.pdb
