@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.exe
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.deps.json
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.runtimeconfig.json
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.dll
+C:\Users\deerx\source\repos\Zamiana\bin\Debug\netcoreapp3.0\Zamiana.pdb
+C:\Users\deerx\source\repos\Zamiana\obj\Debug\netcoreapp3.0\Zamiana.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\Zamiana\obj\Debug\netcoreapp3.0\Zamiana.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\Zamiana\obj\Debug\netcoreapp3.0\Zamiana.AssemblyInfo.cs
+C:\Users\deerx\source\repos\Zamiana\obj\Debug\netcoreapp3.0\Zamiana.dll
+C:\Users\deerx\source\repos\Zamiana\obj\Debug\netcoreapp3.0\Zamiana.pdb
