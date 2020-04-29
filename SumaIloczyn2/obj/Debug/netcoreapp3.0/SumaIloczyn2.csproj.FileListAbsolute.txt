@@ -1,0 +1,11 @@
+C:\Users\deerx\source\repos\SumaIloczyn2\obj\Debug\netcoreapp3.0\SumaIloczyn2.csprojAssemblyReference.cache
+C:\Users\deerx\source\repos\SumaIloczyn2\obj\Debug\netcoreapp3.0\SumaIloczyn2.AssemblyInfoInputs.cache
+C:\Users\deerx\source\repos\SumaIloczyn2\obj\Debug\netcoreapp3.0\SumaIloczyn2.AssemblyInfo.cs
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.exe
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.deps.json
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.runtimeconfig.json
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.runtimeconfig.dev.json
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.dll
+C:\Users\deerx\source\repos\SumaIloczyn2\bin\Debug\netcoreapp3.0\SumaIloczyn2.pdb
+C:\Users\deerx\source\repos\SumaIloczyn2\obj\Debug\netcoreapp3.0\SumaIloczyn2.dll
+C:\Users\deerx\source\repos\SumaIloczyn2\obj\Debug\netcoreapp3.0\SumaIloczyn2.pdb
